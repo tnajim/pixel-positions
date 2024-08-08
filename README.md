@@ -5,7 +5,7 @@ Job Board made with Laravel
 
 ## Requirements
 
-- **Laravel Herd:** Recommended for a seamless development experience. (Link to Herd website)
+- **Laravel Herd:** Recommended for a seamless development experience.
 
 - **Node.js and npm:** Required for frontend assets compilation.
 
