@@ -6,9 +6,7 @@ Job Board made with Laravel
 ## Requirements
 
 - **Laravel Herd:** Recommended for a seamless development experience.
-
 - **Node.js and npm:** Required for frontend assets compilation.
-
 - **PHP:** Required for running the Laravel application.
 
 ### Setup (unfinished)
@@ -16,6 +14,7 @@ Job Board made with Laravel
 - Run `composer install` to install PHP dependencies.
 - Run `npm install` to install frontend dependencies.
 - Run `php artisan migrate` to create the database tables.
+- Run `php artisan db:seed` to seed the database tables with data.
 - Run `npm run dev` to start the development server.
 
 ### Testing
